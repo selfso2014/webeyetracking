@@ -19,9 +19,3 @@ Click **Calibrate**. It will redirect to the calibration service and return with
 
 The demo applies it automatically and caches it in `localStorage`.
 
-## License key
-`index.html` defaults to:
-`dev_1ntzip9admm6g0upynw3gooycnecx0vl93hz8nox`
-
-Override by URL:
-`?licenseKey=YOUR_KEY`
